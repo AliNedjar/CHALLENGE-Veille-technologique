@@ -1,0 +1,24 @@
+ARTICLE CSS:
+
+https://css-tricks.com/almanac/properties/f/font-optical-sizing/
+
+Cet article explique que les glyphes ont eux aussi des outlines! et avec cette fonction:
+.element {
+  font-optical-sizing: none;
+}
+ça retire les outlines
+c'est plutot utile.
+
+ARTICLE PHP:
+
+https://rherault.fr/blog/nouveautes-php-8
+
+Cet article parle de toutes les nouveautées qui arrivent dans PHP-8 et c'est plutôt stylé!
+
+
+ARTICLE UX:
+
+https://newflux.fr/2016/10/13/comment-designer-de-meilleurs-chatbots/
+
+Cet article explique comment améliorer sa chatbox grâce à l'expérience ajoutée des utilisateurs.
+C'est plutôt pas pas expliqué et j'aime vraiment c'est plutôt marrant.
